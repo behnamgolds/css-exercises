@@ -1,0 +1,18 @@
+.pinkish-background {
+  background-color: #ffa7a7;
+  font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#blue-text {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.font-24px {
+  font-size: 24px;
+}
+
+#lightgreen-background {
+  background-color: #80ff80;
+  font-weight: bold;
+}
